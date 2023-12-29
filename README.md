@@ -15,5 +15,5 @@ pip install pycryptodome
 pkg install git
 https://github.com/Szt00Xploit2/ddos-c2/
 cd ddos-c2
-python server.py
+python ddosSzt.py
 
